@@ -66,3 +66,5 @@ class LabyrinthWall:
                         )
                 if raw_chunk:
                     f_out.write(raw_chunk)
+
+                    
